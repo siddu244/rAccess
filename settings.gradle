@@ -1,0 +1,4 @@
+rootProject.name = 'rAccess'
+include 'saas'
+include 'onprem'
+
